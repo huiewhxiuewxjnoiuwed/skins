@@ -1,4 +1,4 @@
-return = {
+return {
 {'M249_Aggressor'},
 {'M249_Wolf'},
 {'M249_P2020'},
